@@ -1,0 +1,16 @@
+2019-01-04 13:20:30,698 INFO     [app.py:8] this will not show
+2019-01-04 13:20:30,698 WARNING  [app.py:9] this will.
+2019-01-04 13:21:28,591 INFO     [app.py:9] this will not show
+2019-01-04 13:21:28,591 WARNING  [app.py:10] this will.
+2019-01-04 13:21:28,591 WARNING  [app.py:13] tested logger.
+2019-01-04 13:21:29,688 INFO     [app.py:9] this will not show
+2019-01-04 13:21:29,688 WARNING  [app.py:10] this will.
+2019-01-04 13:21:29,688 WARNING  [app.py:13] tested logger.
+2019-01-04 13:21:31,764 INFO     [app.py:9] this will not show
+2019-01-04 13:21:31,765 WARNING  [app.py:10] this will.
+2019-01-04 13:21:31,765 WARNING  [app.py:13] tested logger.
+2019-01-04 13:24:12,201 INFO     [app.py:9] this will not show
+2019-01-04 13:24:12,203 WARNING  [app.py:10] this will.
+2019-01-04 13:24:12,203 WARNING  [app.py:13] tested logger.
+2019-01-04 13:24:26,129 WARNING  [app.py:9] this will.
+2019-01-04 13:24:26,129 WARNING  [app.py:12] tested logger.
